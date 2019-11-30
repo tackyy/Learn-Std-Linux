@@ -1,0 +1,2 @@
+This is test.txt.
+The text file is used to test program.
